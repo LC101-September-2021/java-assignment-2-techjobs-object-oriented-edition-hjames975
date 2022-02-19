@@ -25,7 +25,7 @@ public class PositionType extends JobField{
 //
 @Override
 public String toString() {
-    return " " + super.getValue() + " ";
+    return "*" + super.getValue() + "*";
 }
 //
 //    // TODO: Add custom equals and hashCode methods. Consider two PositionType objects "equal" when
