@@ -21,7 +21,7 @@ public class JobField {
 
     @Override
     public String toString() {
-        return " " + value + " ";
+        return value;
     }
 
     @Override
