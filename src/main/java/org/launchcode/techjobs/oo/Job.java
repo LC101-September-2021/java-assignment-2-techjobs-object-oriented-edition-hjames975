@@ -70,8 +70,8 @@ public class Job {
                 "\nName: " + name +
                 "\nEmployer: " + employer +
                 "\nLocation: " + location +
-                "\nPositionType: " + positionType +
-                "\nCoreCompetency: " + coreCompetency +
+                "\nPosition Type: " + positionType +
+                "\nCore Competency: " + coreCompetency +
                 "\n";
 
     }
