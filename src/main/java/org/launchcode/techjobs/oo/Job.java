@@ -66,12 +66,12 @@ public class Job {
             coreCompetency =  new CoreCompetency("Data not available");
         }
 
-        return "\nID:" + id +
-                "\nName:" + name +
-                "\nEmployer:" + employer +
-                "\nLocation:" + location +
-                "\nPositionType:" + positionType +
-                "\nCoreCompetency:" + coreCompetency +
+        return "\nID: " + id +
+                "\nName: " + name +
+                "\nEmployer: " + employer +
+                "\nLocation: " + location +
+                "\nPositionType: " + positionType +
+                "\nCoreCompetency: " + coreCompetency +
                 "\n";
 
     }
